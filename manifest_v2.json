@@ -1,0 +1,79 @@
+{
+  "item": {
+    "id": "com.sixone.uno",
+    "restype": "quick_app",
+    "name": "UNO",
+    "description": "腕上桌游\n＋2 ＋3 任意牌\n风靡全球的UNO",
+    "preview": [
+      "media/UNO@2x.png"
+    ],
+    "icon": "media/APPicon×100@1x.png",
+    "cover": "media/UNO@2x.png",
+    "author": [
+      {
+        "name": "sixoneteam",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [
+    {
+      "title": "UNO密钥购买链接",
+      "url": "https://afdian.com/item/af8d7f0c7db411efbd2952540025c377?utm_source=copylink&utm_medium=link",
+      "icon": "link"
+    }
+  ],
+  "downloads": {
+    "xmrw5": {
+      "version": "1.0.0",
+      "file_name": "downloads/RW5-UNO-v1.0.0.rpk",
+      "versionCode": 1
+    },
+    "xmrw5xring": {
+      "version": "1.0.0",
+      "file_name": "downloads/RW5-UNO-v1.0.0.rpk",
+      "versionCode": 1
+    },
+    "xmb10": {
+      "version": "1.1.0",
+      "file_name": "downloads/环10-UNO-v1.1.0.rpk",
+      "versionCode": 1
+    },
+    "xmb10nfc": {
+      "version": "1.1.0",
+      "file_name": "downloads/环10-UNO-v1.1.0.rpk",
+      "versionCode": 1
+    },
+    "xmrw6": {
+      "version": "1.0.0",
+      "file_name": "downloads/RW6-UNO-v1.0.0.rpk",
+      "versionCode": 1
+    },
+    "xmb10p": {
+      "version": "1.4.0",
+      "file_name": "downloads/环10P-UNO-v1.4.0.rpk",
+      "versionCode": 1
+    },
+    "xmb11": {
+      "version": "1.1.0",
+      "file_name": "downloads/环11-UNO-v1.1.0.rpk",
+      "versionCode": 1
+    },
+    "xmb11nfc": {
+      "version": "1.1.0",
+      "file_name": "downloads/环11-UNO-v1.1.0.rpk",
+      "versionCode": 1
+    },
+    "xmb9": {
+      "version": "1.3.0",
+      "file_name": "downloads/环9-UNO-v1.3.0.rpk",
+      "versionCode": 1
+    },
+    "xmb9p": {
+      "version": "1.4.0",
+      "file_name": "downloads/环9P-UNO-v1.4.0.rpk",
+      "versionCode": 1
+    }
+  },
+  "ext": {}
+}
