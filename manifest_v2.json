@@ -5,7 +5,12 @@
     "name": "UNO",
     "description": "腕上桌游\n＋2 ＋3 任意牌\n风靡全球的UNO",
     "preview": [
-      "media/UNO@2x.png"
+      "media/UNO@2x.png",
+      "media/主页@2x.png",
+      "media/打工页@2x.png",
+      "media/打工页@2x-2.png",
+      "media/容器 129@2x.png",
+      "media/打工页@2x-3.png"
     ],
     "icon": "media/APPicon×100@1x.png",
     "cover": "media/UNO@2x.png",
